@@ -1,3 +1,5 @@
+# Bhargavi Ganesh
+
 ![Bhargavi](bhargspic.jpg)
 
 Hi! My name is Bhargavi and I'm a PhD student at the University of Edinburgh, doing interdisciplinary research at the intersection of philosophy, computer science, and public policy. I am affiliated with the [Center for Technomoral Futures](https://https://efi.ed.ac.uk/centre-technomoral-futures/) and the [UKRI Research Node on Trustworthy Autonomous Systems Governance and Regulation](https://governance.tas.ac.uk/). My work is concerned with understanding how we might assign responsibility for automated decision-making algorithms and autonomous systems. Since the system itself cannot be considered blameworthy/praiseworthy, how do we create a framework that incentivizes stakeholders within the system to design and deploy algorithms that are ethical? And how does assigning responsibility help engender trust in an ecosystem where public trust in algorithms appears to be declining?
